@@ -18,9 +18,3 @@ function b2(arr) {
 function b1(arr) {
     alert("Hiiiiii")
 }
-
-
-//this line from Online repository ....
-
-
-// this is from Master commit  - so We can fetch it...
