@@ -1,5 +1,3 @@
-//alert("Hi")
-
 createAnewFunction([10, 20, 30])
 
 function createAnewFunction(arr) {
